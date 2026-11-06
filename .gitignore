@@ -1,0 +1,10 @@
+.gradle/
+.kotlin/
+.idea/
+build/
+local.properties
+*.iml
+*.apk
+# The signing key stays on the build PC. Never commit it.
+*.keystore
+*.jks

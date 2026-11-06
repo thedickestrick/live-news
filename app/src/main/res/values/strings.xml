@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Live News</string>
+    <string name="widget_name">Live News headlines</string>
+    <string name="widget_description">The latest headlines from your sources. Tap one to read it.</string>
+</resources>

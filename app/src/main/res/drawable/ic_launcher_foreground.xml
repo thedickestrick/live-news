@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A front page: masthead bar, a picture, three lines of text. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,31h38a4,4 0,0 1,4 4v38a4,4 0,0 1,-4 4h-38a4,4 0,0 1,-4 -4v-38a4,4 0,0 1,4 -4z" />
+    <path
+        android:fillColor="#B3261E"
+        android:pathData="M37,38h34v8h-34z" />
+    <path
+        android:fillColor="#B3261E"
+        android:pathData="M37,51h15v19h-15z" />
+    <path
+        android:fillColor="#B3261E"
+        android:pathData="M56,51h15v3.5h-15zM56,58.75h15v3.5h-15zM56,66.5h15v3.5h-15z" />
+</vector>
